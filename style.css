@@ -1,0 +1,26 @@
+.item-cap{
+   text-align: center;
+    width: 80%;
+    left: 10%;
+    bottom: 10px;
+    background-color: white;
+}
+
+.box{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color:rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxitem{
+    width: 45%;
+    height: 500px;
+    
+    background-size:  100% 100%;
+}
